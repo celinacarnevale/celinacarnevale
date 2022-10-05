@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celinacarnevale
 - 👀 I’m interested in all languages
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Javascript and NODE.js
 - 💞️ I’m looking to collaborate on everything I can
 - 📫 How to reach me: Gmail celcarnevale@gmail.com
 
