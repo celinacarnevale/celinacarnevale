@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @celinacarnevale
 - 👀 I’m interested in all languages
-- 🌱 I’m currently learning Javascript and NODE.js
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on everything I can
-- 📫 How to reach me: Gmail celcarnevale@gmail.com
+- 📫 Feel free to reach me via Gmail: celcarnevale@gmail.com
 
 <!---
 celinacarnevale/celinacarnevale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
